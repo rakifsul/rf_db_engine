@@ -19,4 +19,6 @@ It is easy to use, as each server has 3 control buttons: Start, Stop, and Restar
 
 ## Screenshot
 
+<p align="center">
 ![Screenshot 1](./.md_asset/ss-1.png)
+</p>
