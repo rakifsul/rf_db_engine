@@ -22,4 +22,6 @@ Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengend
 
 ## Screenshot
 
-![Screenshot 1](./.md_asset/ss-1.png)
+<p align="center">
+	<img src="./.md_asset/ss-1.png" />
+</p>
