@@ -12,6 +12,10 @@ Saat ini, ada tiga database server yang didukung:
 
 Khusus MongoDB, saya tidak menyertakannya langsung dalam paket ini, jadi Anda harus klik tombol "Install MongoDB" terlebih dahulu.
 
+## Download di Mana
+
+Download executable-nya di halaman "Releases".
+
 ## Cara Penggunaan
 
 Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengendali: Start, Stop, dan Restart.

@@ -3,6 +3,7 @@
 [README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_db_engine/blob/main/README_id.md)
 
 ## Intro
+
 This application is capable of managing multiple types of database servers through a single main application.
 
 Currently, there are three supported database servers:
@@ -12,6 +13,10 @@ Currently, there are three supported database servers:
 - MongoDB
 
 Specifically for MongoDB, it is not included directly in this package, so you need to click the "Install MongoDB" button first.
+
+## Where to Download
+
+Download the executables on "Releases" page.
 
 ## How to use
 
