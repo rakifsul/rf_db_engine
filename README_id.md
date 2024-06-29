@@ -1,5 +1,7 @@
 # rf_db_engine - Kumpulan Server Database dalam Satu Aplikasi
 
+## Pendahuluan
+
 Aplikasi ini adalah aplikasi yang dapat mengatur banyak jenis database server dengan satu aplikasi utama.
 
 Saat ini, ada tiga database server yang didukung:
@@ -10,4 +12,10 @@ Saat ini, ada tiga database server yang didukung:
 
 Khusus MongoDB, saya tidak menyertakannya langsung dalam paket ini, jadi Anda harus klik tombol "Install MongoDB" terlebih dahulu.
 
+## Cara Penggunaan
+
 Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengendali: Start, Stop, dan Restart.
+
+## Screenshot
+
+![Screenshot 1](./.md_asset/ss-1.png)
