@@ -25,3 +25,7 @@ Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengend
 <p align="center">
 	<img src="./.md_asset/ss-1.png" />
 </p>
+
+## Link untuk Traktir
+
+- https://karyakarsa.com/rakifsul
