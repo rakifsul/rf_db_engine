@@ -28,4 +28,4 @@ Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengend
 
 ## Link untuk Traktir
 
-- https://karyakarsa.com/rakifsul
+- https://karyakarsa.com/rakifsul/info
