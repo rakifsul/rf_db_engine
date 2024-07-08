@@ -23,7 +23,7 @@ Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengend
 ## Screenshot
 
 <p align="center">
-	<img src="./.md_asset/ss-1.png" />
+	<img src="./.md_asset/ss_2024.07.08-2122.png" />
 </p>
 
 ## Link untuk Traktir

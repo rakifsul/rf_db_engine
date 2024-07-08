@@ -25,5 +25,5 @@ It is easy to use, as each server has 3 control buttons: Start, Stop, and Restar
 ## Screenshot
 
 <p align="center">
-	<img src="./.md_asset/ss-1.png" />
+	<img src="./.md_asset/ss_2024.07.08-2122.png" />
 </p>
