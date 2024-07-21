@@ -16,6 +16,10 @@ Khusus MongoDB, saya tidak menyertakannya langsung dalam paket ini, jadi Anda ha
 
 Download executable-nya di halaman "Releases".
 
+## Di Mana Source Code-nya
+
+Source code ada di dalam paket zip bersama executable-nya.
+
 ## Cara Penggunaan
 
 Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengendali: Start, Stop, dan Restart.

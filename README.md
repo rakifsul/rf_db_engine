@@ -18,6 +18,10 @@ Specifically for MongoDB, it is not included directly in this package, so you ne
 
 Download the executables on "Releases" page.
 
+## Where are the Source Codes
+
+Source codes are included in the zip along with the executables.
+
 ## How to use
 
 It is easy to use, as each server has 3 control buttons: Start, Stop, and Restart.
