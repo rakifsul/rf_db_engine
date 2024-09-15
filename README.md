@@ -32,6 +32,6 @@ It is easy to use, as each server has 3 control buttons: Start, Stop, and Restar
 	<img src="./.md_asset/ss_2024.07.08-2122.png" />
 </p>
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul

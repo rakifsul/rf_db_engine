@@ -30,6 +30,6 @@ Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengend
 	<img src="./.md_asset/ss_2024.07.08-2122.png" />
 </p>
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
