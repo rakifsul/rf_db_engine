@@ -1,7 +1,5 @@
 # rf_db_engine - Database Server Pack in One App
 
-[README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_db_engine/blob/main/README_id.md)
-
 <details>
 <summary>English</summary>
 
