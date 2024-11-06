@@ -29,6 +29,16 @@ Source codes are included in the zip along with the executables.
 
 It is easy to use, as each server has 3 control buttons: Start, Stop, and Restart.
 
+## Screenshot
+
+<p align="center">
+	<img src="./.md_asset/ss_2024.07.08-2122.png" />
+</p>
+
+## Freelance Worker Link
+
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
+
 </details>
 
 <details>
@@ -58,8 +68,6 @@ Source code ada di dalam paket zip bersama executable-nya.
 
 Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengendali: Start, Stop, dan Restart.
 
-</details>
-
 ## Screenshot
 
 <p align="center">
@@ -69,3 +77,5 @@ Penggunaannya cukup mudah, karena masing-masing server memiliki 3 tombol pengend
 ## Freelance Worker Link
 
 - https://projects.co.id/public/browse_users/view/99bc11/rakifsul
+
+</details>
